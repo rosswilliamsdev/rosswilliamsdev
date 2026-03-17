@@ -1,4 +1,4 @@
-# Hey friend, I'm Ross:
+# Hi, I'm Ross:
 
 ### ⚡️ Imaginer, developer, teacher, team player 🎸
 
