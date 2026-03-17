@@ -1,6 +1,6 @@
 # Hey friend! I'm Ross:
 
-### ⚡️ Imaginer, developer, team player 🎸
+### ⚡️ Imaginer, developer, teacher, team player 🎸
 
 - 📫 How to reach me **rossw.dev@gmail.com**
 
@@ -14,7 +14,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,prisma,postgres,mongodb,vitest,git" alt="Tech Stack" />
 </p>
-
-<quote>“You do not rise to the level of your goals, you fall to the level of your systems”
-- James Clear
-</quote>
